@@ -1,0 +1,16 @@
+.odd-numbers, .three{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+#U1 {
+    color: blue;
+    font-size: 36px;
+}
+#U2 {
+    background-color: lightgreen;
+    font: 24px;
+    font-weight: 900;
+}
+.three{
+    font-size: 24px;
+}

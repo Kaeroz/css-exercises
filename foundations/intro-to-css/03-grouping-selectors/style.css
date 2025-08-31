@@ -1,0 +1,13 @@
+.fontAndSize {
+    font-size: 28px;
+    font: Helvetica,"Times New Roman", sans-serif;
+}
+
+.mono {
+    background-color: black;
+    color: white;
+}
+.warning {
+    background-color: yellow;
+    color: black;
+}
